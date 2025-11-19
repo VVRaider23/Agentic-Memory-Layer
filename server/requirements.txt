@@ -1,0 +1,13 @@
+django>=5.2.6
+djangorestframework>=3.16.1
+azure-cosmos>=4.5.1
+openai>=1.99.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+django-cors-headers>=4.3.1
+PyJWT[crypto]>=2.8.0
+requests>=2.31.0
+cryptography>=42.0.5
+msal>=1.26.0
+PyJWT[crypto]>=2.8.0
+graphiti-core>=0.1.0
